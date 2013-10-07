@@ -1,0 +1,26 @@
+{
+  "name": "whiches",
+  "version": "0.0.0",
+  "description": "A streaming wrapper around isaac’s “which” that adds support for arrays of executables.",
+  "main": "index.js",
+  "dependencies": {
+    "which": "~1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/michaelrhodes/whiches.git"
+  },
+  "keywords": [
+    "which",
+    "stream"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/whiches/issues"
+  }
+}
